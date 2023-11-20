@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.shenggle.supdownloader",
+      "sha256_cert_fingerprints": [
+        "6D:F6:05:07:89:27:FB:3B:36:98:D1:45:C7:F3:FF:7F:EA:82:44:AB:68:8D:95:84:21:51:74:5A:15:FA:1E:6B",
+        "54:3A:D8:DC:DB:8B:6C:76:1E:81:4E:54:4C:11:8A:F4:08:78:6F:40:AF:3A:35:14:AB:DC:F0:3D:E8:1F:93:50"
+      ]
+    }
+  }
+]
